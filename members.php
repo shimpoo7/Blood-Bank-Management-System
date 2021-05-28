@@ -13,4 +13,3 @@ include 'layout/_top_nav.php';
 
 <?php include 'users/layout/_member_layout.php'; ?>
 
-<?php include 'layout/_footer.php'; ?>

@@ -117,4 +117,3 @@ if($flag){
     </div>
 </div>
 
-<?php include 'layout/_footer.php'; ?>

@@ -6,6 +6,5 @@ $db->auth();
 $title = "Blood Requests";
 $setBloodRequestActive = "active";
 include 'layout/_header.php';
-
 include 'layout/_top_nav.php';
 ?>

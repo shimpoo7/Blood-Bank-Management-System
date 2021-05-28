@@ -212,4 +212,3 @@ include 'layout/_top_nav.php';
     </div>
 </div>
 
-<?php include 'layout/_footer.php'; ?>

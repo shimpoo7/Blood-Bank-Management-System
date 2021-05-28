@@ -43,4 +43,4 @@ include 'layout/_header.php';
     </div>
 </div>
 
-<?php include 'layout/_footer.php'; ?>
+
